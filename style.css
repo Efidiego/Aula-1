@@ -54,3 +54,16 @@ button {
   display: flex;
   justify-content: space-around;
 }
+#barra-tempo-container {
+  height: 10px;
+  width: 100%;
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+#barra-tempo {
+  height: 100%;
+  width: 0;
+  background-color: #4CAF50;
+  transition: width 0.3s;
+}
