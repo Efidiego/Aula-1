@@ -59,6 +59,7 @@ button {
   width: 100%;
   background-color: #ddd;
   cursor: pointer;
+  margin-top: 10px;
 }
 
 #barra-tempo {
